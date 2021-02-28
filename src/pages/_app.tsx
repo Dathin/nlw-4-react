@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import {ChallengeContext, ChallengesProvider} from '../contexts/ChallengesContext';
+import {ChallengesProvider} from '../contexts/ChallengesContext';
 
 function MyApp({ Component, pageProps }) {
   return(
